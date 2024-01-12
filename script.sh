@@ -39,4 +39,5 @@ sudo docker run hello-world
 echo "Installation completed successfully."
 
 ##Create bucket in S3 from aws cli
-##aws s3api create-bucket --bucket jegankumard-ekssupermario --region us-east-1
+## aws configure
+## aws s3api create-bucket --bucket jegankumard-ekssupermario --region us-east-1
