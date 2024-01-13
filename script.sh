@@ -38,6 +38,11 @@ sudo docker run hello-world
 
 echo "Installation completed successfully."
 
+docker --version
+aws --version
+kubectl version --client
+terraform --version
+echo "Installed tools version"
 ##Create bucket in S3 from aws cli
 ## aws configure
 ## aws s3api create-bucket --bucket jegankumard-ekssupermario --region us-east-1
