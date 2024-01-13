@@ -60,7 +60,7 @@ kubectl describe service supermario-service
 
 Access LoadBalancer ingress url and wait for few mins
 
-![alt text](https://raw.githubusercontent.com/Jegankumard/EKS_supermario/main/Mario_deployment.JPG.JPG)
+![alt text](https://raw.githubusercontent.com/Jegankumard/EKS_supermario/main/Mario_deployment.JPG)
 
 Dont forget to delete
 ```
